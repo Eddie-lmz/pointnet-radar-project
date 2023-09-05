@@ -1,0 +1,62 @@
+2022-12-07 20:23:13,877 - Model - INFO - PARAMETER ...
+2022-12-07 20:23:13,877 - Model - INFO - Namespace(batch_size=8, gpu='0', num_point=4192, log_dir='pointnet2_part_seg_msg', normal=False, num_votes=3)
+2022-12-07 20:23:13,881 - Model - INFO - The number of test data is: 40
+2022-12-07 20:23:25,738 - Model - INFO - eval mIoU of cyclinder      0.940235
+2022-12-07 20:23:25,738 - Model - INFO - Accuracy is: 0.99634
+2022-12-07 20:23:25,738 - Model - INFO - Class avg accuracy is: 0.95328
+2022-12-07 20:23:25,738 - Model - INFO - Class avg mIOU is: 0.94023
+2022-12-07 20:23:25,738 - Model - INFO - Inctance avg mIOU is: 0.94023
+2022-12-07 20:25:20,851 - Model - INFO - PARAMETER ...
+2022-12-07 20:25:20,851 - Model - INFO - Namespace(batch_size=8, gpu='0', num_point=4192, log_dir='pointnet2_part_seg_msg', normal=False, num_votes=3)
+2022-12-07 20:25:20,855 - Model - INFO - The number of test data is: 40
+2022-12-07 20:25:32,717 - Model - INFO - eval mIoU of cyclinder      0.939819
+2022-12-07 20:25:32,717 - Model - INFO - Accuracy is: 0.99623
+2022-12-07 20:25:32,717 - Model - INFO - Class avg accuracy is: 0.95942
+2022-12-07 20:25:32,717 - Model - INFO - Class avg mIOU is: 0.93982
+2022-12-07 20:25:32,718 - Model - INFO - Inctance avg mIOU is: 0.93982
+2022-12-07 20:25:47,798 - Model - INFO - PARAMETER ...
+2022-12-07 20:25:47,798 - Model - INFO - Namespace(batch_size=8, gpu='0', num_point=4192, log_dir='pointnet2_part_seg_msg', normal=False, num_votes=3)
+2022-12-07 20:25:47,798 - Model - INFO - The number of test data is: 0
+2022-12-07 20:31:29,111 - Model - INFO - PARAMETER ...
+2022-12-07 20:31:29,116 - Model - INFO - Namespace(batch_size=8, gpu='0', num_point=4192, log_dir='pointnet2_part_seg_msg', normal=False, num_votes=3)
+2022-12-07 20:31:29,116 - Model - INFO - The number of test data is: 1
+2022-12-07 20:31:34,291 - Model - INFO - eval mIoU of cyclinder      0.969856
+2022-12-07 20:31:34,296 - Model - INFO - Accuracy is: 0.99857
+2022-12-07 20:31:34,296 - Model - INFO - Class avg accuracy is: 0.97513
+2022-12-07 20:31:34,296 - Model - INFO - Class avg mIOU is: 0.96986
+2022-12-07 20:31:34,296 - Model - INFO - Inctance avg mIOU is: 0.96986
+2022-12-07 20:32:21,635 - Model - INFO - PARAMETER ...
+2022-12-07 20:32:21,635 - Model - INFO - Namespace(batch_size=8, gpu='0', num_point=4192, log_dir='pointnet2_part_seg_msg', normal=False, num_votes=3)
+2022-12-07 20:32:21,635 - Model - INFO - The number of test data is: 1
+2022-12-07 20:32:26,831 - Model - INFO - eval mIoU of cyclinder      0.977522
+2022-12-07 20:32:26,831 - Model - INFO - Accuracy is: 0.99857
+2022-12-07 20:32:26,831 - Model - INFO - Class avg accuracy is: 0.97826
+2022-12-07 20:32:26,831 - Model - INFO - Class avg mIOU is: 0.97752
+2022-12-07 20:32:26,831 - Model - INFO - Inctance avg mIOU is: 0.97752
+2022-12-07 20:36:34,744 - Model - INFO - PARAMETER ...
+2022-12-07 20:36:34,744 - Model - INFO - Namespace(batch_size=8, gpu='0', num_point=4192, log_dir='pointnet2_part_seg_msg', normal=False, num_votes=3)
+2022-12-07 20:36:34,753 - Model - INFO - The number of test data is: 1
+2022-12-07 21:00:46,876 - Model - INFO - PARAMETER ...
+2022-12-07 21:00:46,876 - Model - INFO - Namespace(batch_size=8, gpu='0', num_point=4192, log_dir='pointnet2_part_seg_msg', normal=False, num_votes=3)
+2022-12-07 21:00:46,880 - Model - INFO - The number of test data is: 1
+2022-12-07 21:00:53,287 - Model - INFO - eval mIoU of cyclinder      0.485329
+2022-12-07 21:00:53,287 - Model - INFO - Accuracy is: 0.97066
+2022-12-07 21:00:53,287 - Model - INFO - Class avg accuracy is: 0.50000
+2022-12-07 21:00:53,287 - Model - INFO - Class avg mIOU is: 0.48533
+2022-12-07 21:00:53,287 - Model - INFO - Inctance avg mIOU is: 0.48533
+2022-12-07 21:01:50,810 - Model - INFO - PARAMETER ...
+2022-12-07 21:01:50,810 - Model - INFO - Namespace(batch_size=8, gpu='0', num_point=4192, log_dir='pointnet2_part_seg_msg', normal=False, num_votes=3)
+2022-12-07 21:01:50,810 - Model - INFO - The number of test data is: 2
+2022-12-07 21:01:57,167 - Model - INFO - eval mIoU of cyclinder      0.677506
+2022-12-07 21:01:57,167 - Model - INFO - Accuracy is: 0.98008
+2022-12-07 21:01:57,167 - Model - INFO - Class avg accuracy is: 0.66733
+2022-12-07 21:01:57,167 - Model - INFO - Class avg mIOU is: 0.67751
+2022-12-07 21:01:57,167 - Model - INFO - Inctance avg mIOU is: 0.67751
+2022-12-11 21:13:09,280 - Model - INFO - PARAMETER ...
+2022-12-11 21:13:09,280 - Model - INFO - Namespace(batch_size=8, gpu='0', num_point=4192, log_dir='pointnet2_part_seg_msg', normal=False, num_votes=3)
+2022-12-11 21:13:09,300 - Model - INFO - The number of test data is: 2
+2022-12-11 21:13:28,420 - Model - INFO - eval mIoU of cyclinder      0.735444
+2022-12-11 21:13:28,420 - Model - INFO - Accuracy is: 0.98652
+2022-12-11 21:13:28,420 - Model - INFO - Class avg accuracy is: 0.72677
+2022-12-11 21:13:28,420 - Model - INFO - Class avg mIOU is: 0.73544
+2022-12-11 21:13:28,420 - Model - INFO - Inctance avg mIOU is: 0.73544
